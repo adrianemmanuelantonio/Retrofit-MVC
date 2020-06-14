@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Retrofit-MVC</string>
+    <string name="search_hint">Enter stock code</string>
+    <string name="search_button_text">Search</string>
+    <string name="stock_name_text">Stock Name:</string>
+    <string name="stock_symbol_text">Stock Symbol:</string>
+    <string name="stock_price_text">Stock Price:</string>
+</resources>
